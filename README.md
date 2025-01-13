@@ -129,8 +129,8 @@ Forgalomirányító protokollok:
 RIP
 OSPF
 
-Routing Information Protocol
+**Routing Information Protocol**
 
-Open Shortest Path First
+**Open Shortest Path First**
 
 
