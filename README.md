@@ -121,7 +121,7 @@ Képek
 
 ![Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
-Jelek:
+Jelek: :wink: :heart: :yum: :cry:
 
 
 [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
