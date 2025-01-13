@@ -48,7 +48,7 @@ _Dőlt másként_
 + A részlisták 2 szóköz behúzásával készülnek:
     - A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
     - Alma
-    - Piros alma
+        - Piros alma
     - Narancs
 + További elem
 
@@ -72,8 +72,12 @@ Soron belül `code`
 ```
 Behúzott kód
 ```
-//Néhány megjegyzés
- Gyakorlás
+//
+
+Néhány megjegyzés  
+
+ Gyakorlás  
+
  Gyakorlás
  Gyakorlás
 
