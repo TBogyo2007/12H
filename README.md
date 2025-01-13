@@ -72,13 +72,12 @@ Soron belül `code`
 ```
 Behúzott kód
 ```
-//
-
-Néhány megjegyzés  
+// Néhány megjegyzés  
 
  Gyakorlás  
 
- Gyakorlás
+ Gyakorlás  
+
  Gyakorlás
 
 
@@ -130,8 +129,8 @@ Jelek: :wink: :heart: :yum: :cry:
 
 [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
 Forgalomirányító protokollok:  
-RIP
-OSPF
++ RIP
++ OSPF
 
 **Routing Information Protocol**
 
